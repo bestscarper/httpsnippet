@@ -248,5 +248,19 @@
         "description": "Simple REST and HTTP API Client for C"
       }
     ]
+  },
+  {
+    "key": "perl5",
+    "title": "Perl 5",
+    "extname": ".pl",
+    "default": "lwp",
+    "clients": [
+      {
+        "key": "lwp",
+        "title": "LWP",
+        "link": "https://metacpan.org/pod/LWP",
+        "description": "LWP WWW library"
+      }
+    ]
   }
 ]
